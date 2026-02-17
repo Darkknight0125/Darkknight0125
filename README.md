@@ -1,9 +1,9 @@
 # Hi 👋 I'm Darkknight0125
 
 Samandeep Sidhu
-3rd Year student at IIITA
-India  
-Building backend systems, APIs and learning advanced Git workflows.
+- 3rd Year student at IIITA
+- India  
+- Building backend systems, APIs and learning advanced Git workflows.
 
 ---
 
@@ -19,14 +19,15 @@ Building backend systems, APIs and learning advanced Git workflows.
 
 ## Tech Stack
 
-Python  
-FastAPI 
-Django
-React
-C++
-Git & GitHub  
-SQL / Databases  
-REST APIs  
+- Python  
+- FastAPI  
+- Django  
+- React  
+- Javascript  
+- C++  
+- Git & GitHub  
+- SQL / Databases  
+- REST APIs  
 
 ---
 
@@ -43,11 +44,6 @@ REST APIs
 
 ---
 
-## GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Darkknight0125&theme=onedark&no-frame=true&margin-w=10)
-
----
 
 ## PRs • Commits • Issues
 
@@ -57,10 +53,4 @@ REST APIs
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkknight0125&theme=github_dark)
 
----
-
-## Connect With Me
-
-GitHub: https://github.com/Darkknight0125
-Email: samansidhu0125@gmail.com
 ---
